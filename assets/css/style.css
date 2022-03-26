@@ -7,15 +7,15 @@
 
 body {
   background-color: #d9dcd6;
+  font-size: 16px;
 }
+
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
+
 .float-left {
   float: left;
   margin-right: 25px;
